@@ -1,1 +1,1 @@
-# SpiralCalculator
+# Stand_25.11.2025
